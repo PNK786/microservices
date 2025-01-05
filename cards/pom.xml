@@ -97,7 +97,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>afroz8220/${project.artifactId}:s6</image>
+						<image>afroz8220/${project.artifactId}:s7</image>
 					</to>
 				</configuration>
 			</plugin>

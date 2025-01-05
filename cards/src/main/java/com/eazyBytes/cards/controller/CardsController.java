@@ -190,7 +190,7 @@ public class CardsController {
                     responseCode = "500",
                     description = "HttpStatus Internal Server Error",
                     content = @Content(
-                            schema = @Schema(implementation = com.easybit.accounts.Dto.ErrorResponseDto.class)
+                            schema = @Schema(implementation = com.eazyBytes.cards.dto.ErrorResponseDto.class)
                     )
             )
     }
@@ -215,7 +215,7 @@ public class CardsController {
                     responseCode = "500",
                     description = "HttpStatus Internal Server Error",
                     content = @Content(
-                            schema = @Schema(implementation = com.easybit.accounts.Dto.ErrorResponseDto.class)
+                            schema = @Schema(implementation = com.eazyBytes.cards.dto.ErrorResponseDto.class)
                     )
             )
     }
@@ -243,7 +243,7 @@ public class CardsController {
                     responseCode = "500",
                     description = "HttpStatus Internal Server Error",
                     content = @Content(
-                            schema = @Schema(implementation = com.easybit.accounts.Dto.ErrorResponseDto.class)
+                            schema = @Schema(implementation = com.eazyBytes.cards.dto.ErrorResponseDto.class)
                     )
             )
     }
